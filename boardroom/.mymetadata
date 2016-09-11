@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="boardroom"
+  id="myeclipse.1473428870179"
+  context-root="/boardroom"
+  j2ee-spec="5.0"
+  archive="boardroom.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
